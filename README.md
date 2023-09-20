@@ -3,6 +3,7 @@ This is a database for monopoly game. All the data is synthetic.
 
 ## Packages
 Please install the following packages.
+
     pip install flask sqlite3
 
 ## Files
