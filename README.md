@@ -7,6 +7,13 @@ Please install the following packages.
 >pip install flask sqlite3
 
 ## Files
+### ./
+
+| File Name                                  | Description                                                   |
+| ------------------------------------------ | --------------------------------------------------------------|
+| create.py                                  | Create fake data for database.                                |
+| monopoly.py                                | Insert fake data into database.                               |
+| amin.txt                                   | Visulaize the data in database.                               |
 ### ./create.py
 Create fake data for database.
   
