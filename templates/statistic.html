@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+    <script src="jquery-3.7.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    <script type="text/javascript" src="statistic.js"></script>
+<!--    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>-->
+<!--    <script type="text/javascript" src="script.js"></script>-->
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+    <title>Statistic</title>
+</head>
+
+<body>
+    <div id="background">
+        <div id="footer" style="height:fit-content;background-color:#B6B6B6;display:flex">
+            <div id="footer-left" style="width:70%;">
+                <text style="font-style: italic;font-size:50px;margin-bottom:0px;">Monopoly Database</text>
+            </div>
+            <div id="footer-right" style="width:30%;display:flex;justify-content:flex-start;">
+                <div id="href_history"><a href="{{ url_for('index') }}"><p id="href_history_p" style="margin:25px;font-size:20px;">History</p></a></div>
+                <div id="href_query"><a href="{{ url_for('query') }}"><p id="href_query_p" style="margin:25px;font-size:20px;">Query</p></a></div>
+                <div id="href_statistic"><p id="href_statistic_p" style="margin:25px;font-size:20px;">Statistic</p></div>
+            </div>
+        </div>
+        <div id="main" style="height:100vh;display:flex;">
+            <div class="pie_container" style="width:35%;height:80%;">
+                <div>
+                    <p style="font-size:25px;color:grey;margin:2%;">Number of role is used</p>
+                </div>
+                <div id="canvas"  style="width:400px;margin:5%">
+                    <canvas id="myChart"></canvas>
+                </div>
+            </div>
+            <div id="lucky_container" class="" style="width:50%">
+                <p style="color:grey;font-size:25px;text-align:center;">Lucky Guys</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    var data={{data}};
+    var lucky={{lucky}}
+</script>
+</html>

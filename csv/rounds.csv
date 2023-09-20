@@ -1,0 +1,481 @@
+gameIDroundID,playerID,special_case,transportation,balance,positionID
+ 1-1,1,God of wealth,Car,201000,6
+ 1-1,2,God of wealth,Walk,201000,2
+ 1-1,3,None,Scooter,193000,8
+ 1-1,4,God of luck,Scooter,199000,6
+ 1-2,1,None,Car,200000,10
+ 1-2,2,God of wealth,Car,195000,11
+ 1-2,3,None,Scooter,187000,14
+ 1-2,4,None,Car,196000,18
+ 1-3,1,None,Scooter,191000,11
+ 1-3,2,None,Walk,197000,16
+ 1-3,3,Turtle,Car,185000,15
+ 1-3,4,None,Car,194000,34
+ 1-4,1,None,Car,182000,19
+ 1-4,2,None,Scooter,188000,19
+ 1-4,3,God of wealth,Car,179000,19
+ 1-4,4,Dog,Car,189000,47
+ 1-5,1,Dog,Walk,191000,24
+ 1-5,2,None,Walk,179000,23
+ 1-5,3,None,Scooter,172000,26
+ 1-5,4,None,Walk,181000,1
+ 1-6,1,None,Scooter,182000,27
+ 1-6,2,God of luck,Scooter,173000,25
+ 1-6,3,Turtle,Car,163000,28
+ 1-6,4,God of luck,Car,181000,4
+ 1-7,1,None,Car,180000,32
+ 1-7,2,None,Scooter,168000,37
+ 1-7,3,Dog,Car,158000,34
+ 1-7,4,Turtle,Scooter,175000,7
+ 1-8,1,None,Walk,175000,37
+ 1-8,2,Turtle,Car,170000,38
+ 1-8,3,None,Scooter,153000,37
+ 1-8,4,Dog,Scooter,165000,8
+ 1-9,1,None,Walk,173000,38
+ 1-9,2,None,Car,175000,47
+ 1-9,3,None,Walk,157000,40
+ 1-9,4,God of luck,Scooter,163000,9
+ 1-10,1,None,Scooter,171000,41
+ 1-10,2,None,Scooter,168000,7
+ 1-10,3,God of luck,Walk,149000,45
+ 1-10,4,None,Walk,167000,12
+ 1-11,1,None,Walk,162000,45
+ 1-11,2,None,Walk,161000,8
+ 1-11,3,Dog,Car,162000,8
+ 1-11,4,None,Scooter,161000,21
+ 1-12,1,None,Scooter,161000,5
+ 1-12,2,None,Scooter,158000,12
+ 1-12,3,None,Car,153000,11
+ 1-12,4,Dog,Walk,154000,25
+ 1-13,1,Dog,Scooter,151000,7
+ 1-13,2,None,Car,168000,14
+ 1-13,3,None,Scooter,159000,15
+ 1-13,4,None,Scooter,156000,37
+ 1-14,1,None,Walk,144000,8
+ 1-14,2,God of wealth,Car,169000,26
+ 1-14,3,God of luck,Scooter,165000,19
+ 1-14,4,None,Scooter,156000,47
+ 1-15,1,God of luck,Car,147000,25
+ 1-15,2,None,Walk,174000,32
+ 1-15,3,None,Car,156000,27
+ 1-15,4,None,Scooter,149000,50
+ 1-16,1,None,Walk,150000,28
+ 1-16,2,God of luck,Scooter,175000,37
+ 1-16,3,None,Car,162000,39
+ 1-16,4,Dog,Walk,146000,1
+ 1-17,1,Dog,Car,145000,44
+ 1-17,2,God of wealth,Car,170000,1
+ 1-17,3,None,Walk,162000,40
+ 1-17,4,None,Scooter,146000,13
+ 1-18,1,God of wealth,Car,146000,49
+ 1-18,2,Dog,Scooter,160000,7
+ 1-18,3,None,Scooter,160000,2
+ 1-18,4,None,Car,144000,19
+ 1-19,1,God of luck,Walk,149000,50
+ 1-19,2,None,Walk,159000,10
+ 1-19,3,None,Car,157000,12
+ 1-19,4,God of wealth,Car,148000,27
+ 1-20,1,Dog,Scooter,156000,2
+ 1-20,2,Dog,Walk,158000,11
+ 1-20,3,God of wealth,Car,157000,18
+ 1-20,4,God of luck,Scooter,150000,31
+ 1-21,1,God of luck,Walk,150000,8
+ 1-21,2,None,Car,157000,15
+ 1-21,3,Turtle,Scooter,155000,19
+ 1-21,4,God of wealth,Car,148000,37
+ 1-22,1,God of luck,Car,154000,17
+ 1-22,2,God of wealth,Car,163000,32
+ 1-22,3,None,Walk,148000,25
+ 1-22,4,None,Scooter,146000,41
+ 1-23,1,God of wealth,Car,158000,22
+ 1-23,2,God of luck,Scooter,163000,33
+ 1-23,3,God of wealth,Scooter,149000,32
+ 1-23,4,God of wealth,Car,142000,8
+ 1-24,1,God of wealth,Car,161000,38
+ 1-24,2,Turtle,Walk,163000,35
+ 1-24,3,None,Car,148000,42
+ 1-24,4,Dog,Walk,136000,10
+ 1-25,1,None,Car,155000,45
+ 1-25,2,None,Car,161000,49
+ 1-25,3,None,Scooter,152000,48
+ 1-25,4,Turtle,Walk,135000,13
+ 1-26,1,Dog,Scooter,154000,5
+ 1-26,2,Dog,Scooter,151000,7
+ 1-26,3,Dog,Walk,141000,1
+ 1-26,4,Turtle,Walk,149000,18
+ 1-27,1,None,Walk,147000,7
+ 1-27,2,God of wealth,Car,148000,14
+ 1-27,3,Dog,Car,141000,10
+ 1-27,4,None,Walk,147000,19
+ 1-28,1,None,Walk,151000,13
+ 1-28,2,None,Car,145000,18
+ 1-28,3,God of wealth,Car,139000,20
+ 1-28,4,None,Walk,149000,23
+ 1-29,1,None,Walk,145000,14
+ 1-29,2,None,Car,154000,35
+ 1-29,3,None,Scooter,145000,28
+ 1-29,4,God of luck,Scooter,150000,34
+ 1-30,1,None,Walk,140000,20
+ 1-30,2,None,Scooter,152000,47
+ 1-30,3,Dog,Walk,146000,29
+ 1-30,4,None,Walk,149000,40
+ 2-1,5,Turtle,Car,190000,19
+ 2-1,6,God of wealth,Scooter,201000,2
+ 2-1,7,None,Scooter,193000,7
+ 2-1,8,None,Walk,198000,2
+ 2-2,5,None,Walk,185000,20
+ 2-2,6,God of luck,Walk,195000,3
+ 2-2,7,Turtle,Scooter,185000,16
+ 2-2,8,None,Car,191000,7
+ 2-3,5,None,Scooter,184000,29
+ 2-3,6,None,Scooter,190000,9
+ 2-3,7,None,Car,190000,32
+ 2-3,8,None,Walk,184000,8
+ 2-4,5,God of wealth,Walk,185000,34
+ 2-4,6,None,Scooter,183000,16
+ 2-4,7,None,Scooter,193000,36
+ 2-4,8,None,Walk,179000,9
+ 2-5,5,None,Car,178000,50
+ 2-5,6,None,Car,180000,33
+ 2-5,7,None,Scooter,191000,39
+ 2-5,8,None,Scooter,172000,16
+ 2-6,5,None,Car,169000,3
+ 2-6,6,God of wealth,Scooter,189000,40
+ 2-6,7,None,Scooter,189000,45
+ 2-6,8,None,Scooter,169000,18
+ 2-7,5,God of luck,Car,162000,13
+ 2-7,6,None,Walk,181000,42
+ 2-7,7,None,Walk,187000,49
+ 2-7,8,None,Scooter,161000,28
+ 2-8,5,Turtle,Scooter,158000,22
+ 2-8,6,None,Walk,179000,44
+ 2-8,7,None,Scooter,180000,50
+ 2-8,8,None,Scooter,159000,39
+ 2-9,5,Dog,Scooter,162000,29
+ 2-9,6,Dog,Walk,167000,45
+ 2-9,7,None,Scooter,188000,12
+ 2-9,8,God of luck,Walk,157000,40
+ 2-10,5,God of wealth,Scooter,163000,41
+ 2-10,6,None,Walk,163000,50
+ 2-10,7,Turtle,Scooter,186000,15
+ 2-10,8,None,Scooter,151000,43
+ 2-11,5,None,Walk,164000,46
+ 2-11,6,None,Car,157000,14
+ 2-11,7,Turtle,Car,182000,18
+ 2-11,8,None,Car,152000,49
+ 2-12,5,Turtle,Car,154000,11
+ 2-12,6,Turtle,Walk,155000,15
+ 2-12,7,Dog,Walk,176000,21
+ 2-12,8,None,Scooter,149000,10
+ 2-13,5,None,Car,154000,29
+ 2-13,6,Dog,Scooter,145000,26
+ 2-13,7,God of luck,Walk,168000,23
+ 2-13,8,Turtle,Car,139000,11
+ 2-14,5,None,Walk,163000,34
+ 2-14,6,None,Walk,144000,29
+ 2-14,7,God of luck,Scooter,162000,26
+ 2-14,8,None,Scooter,132000,16
+ 2-15,5,None,Car,161000,40
+ 2-15,6,None,Car,150000,36
+ 2-15,7,God of wealth,Car,168000,42
+ 2-15,8,Dog,Car,127000,31
+ 2-16,5,None,Car,161000,41
+ 2-16,6,Turtle,Scooter,157000,40
+ 2-16,7,None,Car,162000,46
+ 2-16,8,None,Scooter,123000,36
+ 2-17,5,None,Car,161000,43
+ 2-17,6,God of luck,Walk,158000,42
+ 2-17,7,Dog,Car,160000,10
+ 2-17,8,None,Car,130000,41
+ 2-18,5,Turtle,Walk,162000,46
+ 2-18,6,None,Scooter,158000,2
+ 2-18,7,None,Scooter,157000,22
+ 2-18,8,None,Scooter,122000,1
+ 2-19,5,None,Walk,165000,50
+ 2-19,6,None,Walk,157000,4
+ 2-19,7,None,Walk,149000,28
+ 2-19,8,None,Scooter,121000,11
+ 2-20,5,God of luck,Car,168000,8
+ 2-20,6,None,Walk,154000,10
+ 2-20,7,None,Scooter,149000,39
+ 2-20,8,God of wealth,Car,125000,27
+ 2-21,5,None,Walk,165000,10
+ 2-21,6,None,Scooter,149000,20
+ 2-21,7,Turtle,Walk,140000,42
+ 2-21,8,God of wealth,Scooter,126000,37
+ 2-22,5,Turtle,Car,169000,22
+ 2-22,6,None,Walk,150000,25
+ 2-22,7,Dog,Car,132000,48
+ 2-22,8,None,Walk,118000,42
+ 2-23,5,None,Car,167000,31
+ 2-23,6,Dog,Car,155000,26
+ 2-23,7,None,Scooter,123000,3
+ 2-23,8,Dog,Walk,117000,43
+ 2-24,5,None,Scooter,164000,40
+ 2-24,6,None,Car,165000,31
+ 2-24,7,None,Scooter,123000,7
+ 2-24,8,God of wealth,Scooter,122000,1
+ 2-25,5,God of wealth,Walk,167000,46
+ 2-25,6,None,Car,161000,36
+ 2-25,7,Dog,Walk,124000,12
+ 2-25,8,None,Car,115000,7
+ 2-26,5,God of luck,Scooter,167000,4
+ 2-26,6,Dog,Car,159000,3
+ 2-26,7,None,Scooter,125000,24
+ 2-26,8,God of luck,Scooter,110000,17
+ 2-27,5,Dog,Car,159000,9
+ 2-27,6,God of luck,Walk,163000,6
+ 2-27,7,Dog,Walk,115000,25
+ 2-27,8,Dog,Scooter,98000,19
+ 2-28,5,Dog,Walk,165000,13
+ 2-28,6,None,Car,167000,12
+ 2-28,7,None,Scooter,113000,37
+ 2-28,8,None,Car,96000,26
+ 2-29,5,God of luck,Walk,160000,17
+ 2-29,6,None,Car,165000,19
+ 2-29,7,None,Car,105000,1
+ 2-29,8,God of wealth,Walk,113000,28
+ 2-30,5,None,Car,169000,20
+ 2-30,6,None,Car,165000,26
+ 2-30,7,None,Walk,103000,2
+ 2-30,8,God of luck,Walk,112000,34
+ 3-1,9,God of wealth,Scooter,194000,3
+ 3-1,10,God of wealth,Scooter,196000,8
+ 3-1,11,God of wealth,Walk,196000,7
+ 3-1,12,None,Scooter,191000,11
+ 3-2,9,Dog,Scooter,185000,14
+ 3-2,10,None,Walk,193000,10
+ 3-2,11,None,Car,190000,17
+ 3-2,12,None,Car,185000,14
+ 3-3,9,Dog,Scooter,179000,19
+ 3-3,10,None,Scooter,187000,17
+ 3-3,11,None,Walk,187000,19
+ 3-3,12,God of luck,Walk,177000,19
+ 3-4,9,None,Car,190000,30
+ 3-4,10,None,Car,185000,32
+ 3-4,11,Dog,Scooter,179000,20
+ 3-4,12,None,Walk,171000,24
+ 3-5,9,None,Scooter,182000,42
+ 3-5,10,None,Scooter,182000,40
+ 3-5,11,God of wealth,Car,175000,30
+ 3-5,12,God of wealth,Car,166000,42
+ 3-6,9,Dog,Walk,192000,47
+ 3-6,10,None,Walk,173000,45
+ 3-6,11,Turtle,Scooter,173000,35
+ 3-6,12,Turtle,Scooter,159000,43
+ 3-7,9,None,Scooter,185000,7
+ 3-7,10,Turtle,Scooter,163000,3
+ 3-7,11,Dog,Car,175000,38
+ 3-7,12,God of luck,Car,158000,2
+ 3-8,9,Turtle,Walk,184000,11
+ 3-8,10,Dog,Car,157000,12
+ 3-8,11,God of wealth,Car,170000,42
+ 3-8,12,God of wealth,Car,164000,17
+ 3-9,9,None,Scooter,187000,20
+ 3-9,10,Turtle,Walk,148000,13
+ 3-9,11,None,Scooter,174000,50
+ 3-9,12,Turtle,Scooter,158000,20
+ 3-10,9,Dog,Scooter,178000,21
+ 3-10,10,None,Walk,147000,15
+ 3-10,11,None,Scooter,170000,3
+ 3-10,12,God of wealth,Walk,152000,23
+ 3-11,9,None,Car,186000,29
+ 3-11,10,God of luck,Scooter,139000,19
+ 3-11,11,None,Car,170000,20
+ 3-11,12,None,Scooter,145000,30
+ 3-12,9,None,Car,201000,35
+ 3-12,10,God of luck,Car,136000,36
+ 3-12,11,None,Scooter,162000,27
+ 3-12,12,God of wealth,Car,146000,44
+ 3-13,9,None,Car,201000,47
+ 3-13,10,God of wealth,Walk,137000,41
+ 3-13,11,God of luck,Car,161000,39
+ 3-13,12,None,Walk,141000,48
+ 3-14,9,Turtle,Car,197000,12
+ 3-14,10,None,Car,132000,1
+ 3-14,11,God of luck,Walk,156000,43
+ 3-14,12,None,Scooter,142000,9
+ 3-15,9,God of wealth,Car,192000,13
+ 3-15,10,None,Scooter,131000,3
+ 3-15,11,Turtle,Car,153000,44
+ 3-15,12,None,Car,138000,17
+ 3-16,9,Dog,Scooter,189000,23
+ 3-16,10,None,Walk,124000,7
+ 3-16,11,None,Walk,157000,45
+ 3-16,12,God of wealth,Walk,141000,19
+ 3-17,9,None,Walk,191000,26
+ 3-17,10,None,Car,130000,18
+ 3-17,11,Dog,Scooter,152000,49
+ 3-17,12,None,Scooter,134000,30
+ 3-18,9,Turtle,Car,195000,41
+ 3-18,10,God of luck,Scooter,130000,22
+ 3-18,11,God of luck,Walk,152000,4
+ 3-18,12,None,Scooter,132000,31
+ 3-19,9,None,Walk,195000,42
+ 3-19,10,None,Scooter,128000,34
+ 3-19,11,None,Walk,149000,10
+ 3-19,12,None,Walk,131000,35
+ 3-20,9,None,Scooter,186000,45
+ 3-20,10,Dog,Walk,137000,40
+ 3-20,11,None,Scooter,142000,13
+ 3-20,12,God of wealth,Walk,132000,38
+ 3-21,9,None,Walk,179000,50
+ 3-21,10,None,Walk,145000,45
+ 3-21,11,None,Car,151000,27
+ 3-21,12,None,Car,130000,41
+ 3-22,9,None,Walk,178000,4
+ 3-22,10,None,Walk,140000,50
+ 3-22,11,None,Walk,158000,29
+ 3-22,12,None,Walk,122000,42
+ 3-23,9,God of wealth,Walk,183000,7
+ 3-23,10,None,Scooter,131000,11
+ 3-23,11,None,Scooter,160000,37
+ 3-23,12,None,Car,129000,6
+ 3-24,9,None,Scooter,176000,8
+ 3-24,10,None,Walk,131000,16
+ 3-24,11,Dog,Scooter,152000,48
+ 3-24,12,None,Scooter,128000,17
+ 3-25,9,Dog,Car,170000,18
+ 3-25,10,None,Walk,129000,20
+ 3-25,11,None,Walk,163000,4
+ 3-25,12,None,Car,126000,34
+ 3-26,9,God of wealth,Car,173000,19
+ 3-26,10,None,Scooter,124000,30
+ 3-26,11,None,Walk,156000,8
+ 3-26,12,None,Walk,125000,35
+ 3-27,9,God of luck,Scooter,178000,22
+ 3-27,10,None,Walk,134000,34
+ 3-27,11,None,Scooter,154000,12
+ 3-27,12,None,Walk,122000,40
+ 3-28,9,None,Car,177000,35
+ 3-28,10,Dog,Car,135000,44
+ 3-28,11,None,Walk,148000,16
+ 3-28,12,None,Car,124000,44
+ 3-29,9,God of luck,Scooter,173000,37
+ 3-29,10,Turtle,Car,141000,10
+ 3-29,11,None,Scooter,147000,21
+ 3-29,12,None,Walk,115000,45
+ 3-30,9,God of luck,Walk,177000,40
+ 3-30,10,None,Car,153000,12
+ 3-30,11,None,Walk,138000,23
+ 3-30,12,God of wealth,Car,120000,7
+ 4-1,13,God of luck,Walk,199000,2
+ 4-1,14,None,Scooter,192000,13
+ 4-1,15,None,Car,197000,18
+ 4-1,16,None,Walk,199000,4
+ 4-2,13,God of luck,Walk,193000,7
+ 4-2,14,Dog,Car,180000,23
+ 4-2,15,None,Walk,192000,20
+ 4-2,16,Turtle,Scooter,191000,8
+ 4-3,13,None,Walk,188000,9
+ 4-3,14,Dog,Walk,176000,29
+ 4-3,15,God of luck,Walk,187000,24
+ 4-3,16,Turtle,Car,185000,9
+ 4-4,13,God of wealth,Scooter,195000,15
+ 4-4,14,Turtle,Scooter,173000,34
+ 4-4,15,Turtle,Scooter,177000,27
+ 4-4,16,None,Scooter,182000,10
+ 4-5,13,None,Car,192000,22
+ 4-5,14,Dog,Car,168000,44
+ 4-5,15,None,Car,170000,30
+ 4-5,16,None,Walk,179000,12
+ 4-6,13,Dog,Car,182000,25
+ 4-6,14,None,Scooter,159000,3
+ 4-6,15,Turtle,Scooter,166000,40
+ 4-6,16,None,Scooter,173000,14
+ 4-7,13,Turtle,Walk,174000,26
+ 4-7,14,None,Car,157000,6
+ 4-7,15,None,Scooter,164000,2
+ 4-7,16,None,Walk,172000,15
+ 4-8,13,None,Walk,176000,29
+ 4-8,14,None,Walk,151000,7
+ 4-8,15,None,Car,164000,20
+ 4-8,16,Turtle,Car,165000,17
+ 4-9,13,None,Walk,181000,31
+ 4-9,14,None,Walk,144000,8
+ 4-9,15,None,Scooter,162000,32
+ 4-9,16,None,Car,169000,22
+ 4-10,13,None,Scooter,182000,38
+ 4-10,14,God of wealth,Car,140000,16
+ 4-10,15,God of luck,Walk,162000,35
+ 4-10,16,God of wealth,Walk,163000,23
+ 4-11,13,Dog,Scooter,170000,45
+ 4-11,14,Dog,Walk,140000,17
+ 4-11,15,Turtle,Scooter,159000,44
+ 4-11,16,None,Scooter,162000,30
+ 4-12,13,Dog,Scooter,160000,50
+ 4-12,14,None,Walk,139000,22
+ 4-12,15,None,Car,164000,2
+ 4-12,16,None,Scooter,157000,37
+ 4-13,13,None,Scooter,162000,10
+ 4-13,14,God of wealth,Car,134000,33
+ 4-13,15,None,Walk,157000,8
+ 4-13,16,None,Walk,164000,40
+ 4-14,13,None,Walk,153000,11
+ 4-14,14,None,Scooter,128000,43
+ 4-14,15,None,Car,151000,19
+ 4-14,16,God of luck,Walk,163000,44
+ 4-15,13,None,Scooter,145000,13
+ 4-15,14,None,Walk,129000,45
+ 4-15,15,None,Walk,144000,25
+ 4-15,16,None,Walk,161000,49
+ 4-16,13,None,Walk,152000,19
+ 4-16,14,God of luck,Car,125000,9
+ 4-16,15,Dog,Walk,142000,28
+ 4-16,16,God of wealth,Walk,155000,3
+ 4-17,13,Turtle,Walk,156000,25
+ 4-17,14,None,Scooter,131000,18
+ 4-17,15,None,Walk,143000,31
+ 4-17,16,None,Scooter,155000,12
+ 4-18,13,None,Car,156000,34
+ 4-18,14,None,Walk,127000,24
+ 4-18,15,God of wealth,Walk,150000,34
+ 4-18,16,None,Car,149000,21
+ 4-19,13,None,Walk,151000,37
+ 4-19,14,None,Scooter,122000,25
+ 4-19,15,Dog,Walk,147000,35
+ 4-19,16,God of wealth,Walk,150000,25
+ 4-20,13,God of luck,Car,158000,42
+ 4-20,14,God of wealth,Walk,116000,27
+ 4-20,15,None,Car,148000,1
+ 4-20,16,None,Car,146000,36
+ 4-21,13,None,Walk,158000,45
+ 4-21,14,God of wealth,Scooter,117000,39
+ 4-21,15,None,Car,145000,10
+ 4-21,16,None,Walk,149000,37
+ 4-22,13,None,Walk,156000,49
+ 4-22,14,Dog,Car,108000,46
+ 4-22,15,None,Scooter,138000,16
+ 4-22,16,None,Walk,145000,43
+ 4-23,13,God of luck,Walk,156000,5
+ 4-23,14,None,Scooter,114000,8
+ 4-23,15,None,Car,138000,30
+ 4-23,16,None,Scooter,152000,4
+ 4-24,13,None,Scooter,156000,9
+ 4-24,14,Dog,Scooter,108000,18
+ 4-24,15,None,Car,141000,35
+ 4-24,16,None,Car,152000,10
+ 4-25,13,God of wealth,Walk,156000,10
+ 4-25,14,God of luck,Car,102000,30
+ 4-25,15,None,Car,146000,38
+ 4-25,16,None,Walk,155000,12
+ 4-26,13,None,Scooter,153000,20
+ 4-26,14,None,Car,100000,41
+ 4-26,15,God of wealth,Walk,148000,43
+ 4-26,16,Dog,Walk,144000,13
+ 4-27,13,Dog,Scooter,142000,28
+ 4-27,14,God of wealth,Scooter,115000,49
+ 4-27,15,None,Scooter,155000,4
+ 4-27,16,None,Walk,140000,16
+ 4-28,13,None,Scooter,135000,30
+ 4-28,14,Dog,Car,119000,16
+ 4-28,15,None,Scooter,159000,12
+ 4-28,16,None,Car,142000,29
+ 4-29,13,Dog,Car,129000,40
+ 4-29,14,None,Walk,111000,19
+ 4-29,15,None,Scooter,165000,14
+ 4-29,16,None,Scooter,146000,34
+ 4-30,13,None,Walk,123000,46
+ 4-30,14,None,Walk,116000,22
+ 4-30,15,God of wealth,Walk,168000,20
+ 4-30,16,None,Walk,146000,36

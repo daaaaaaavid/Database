@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+    <script src="jquery-3.7.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    <script type="text/javascript" src="query.js"></script>
+<!--    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>-->
+<!--    <script type="text/javascript" src="script.js"></script>-->
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+    <title>Query</title>
+</head>
+
+<body>
+    <div id="background">
+        <div id="footer" style="height:fit-content;background-color:#B6B6B6;display:flex">
+            <div id="footer-left" style="width:70%;">
+                <text style="font-style: italic;font-size:50px;margin-bottom:0px;">Monopoly Database</text>
+            </div>
+            <div id="footer-right" style="width:30%;display:flex;justify-content:flex-start;">
+                <div id="href_history"><a href="{{ url_for('index') }}"><p id="href_history_p" style="margin:25px;font-size:20px;">History</p></a></div>
+                <div id="href_query"><p id="href_query_p" style="margin:25px;font-size:20px;">Query</p></div>
+                <div id="href_statistic"><a href="{{ url_for('statistic') }}"><p id="href_statistic_p" style="margin:25px;font-size:20px;">Statistic</p></a></div>
+            </div>
+        </div>
+        <div id="main" style="display:flex;justify-content:space-around;flex-wrap:wrap;height:100vh;">
+            <div id="form" style="display:flex;align-items:center;width:100%;margin-left:30%">
+                <form style="width:100%">
+                    <label>Choose game:</label>
+                    <select id="selectgame" name="" style="margin-right:3%">
+                        <option value=1>1</option>
+                        <option value=2>2</option>
+                        <option value=3>3</option>
+                        <option value=4>4</option>
+                    </select>
+                    <label>Choose player ID:</label>
+                    <select id="selectid" name="" style="margin-right:3%">
+                        <option value=1>1</option>
+                        <option value=2>2</option>
+                        <option value=3>3</option>
+                        <option value=4>4</option>
+                    </select>
+                    <label>Choose query type:</label>
+                    <select id="selectype" name="selectype">
+                        <option value="money">Money</option>
+                        <option value="assets">Assets</option>
+                        <option value="situation">Special situation</option>
+                        <option value="typ_num">Assets type</option>
+                    </select>
+<!--                <button type="submit" class="btn btn-default">Go</button>-->
+
+                </form>
+            </div>
+            <div id="canvas" style="width:60%;">
+                <canvas id="myChart"></canvas>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    var data={{all}};
+</script>
+</html>

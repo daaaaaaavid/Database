@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+    <script src="jquery-3.7.0.min.js"></script>
+<!--    <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>-->
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+    <title>HomePage</title>
+</head>
+
+<body>
+    <div id="background">
+        <div id="footer" style="height:fit-content;background-color:#B6B6B6;display:flex">
+            <div id="footer-left" style="width:70%;">
+                <text style="font-style: italic;font-size:50px;margin-bottom:0px;">Monopoly Database</text>
+            </div>
+            <div id="footer-right" style="width:30%;display:flex;justify-content:flex-start;">
+                <div id="href_history"><p id="href_history_p" style="margin:25px;font-size:20px;">History</p></div>
+                <div id="href_query"><a href="{{ url_for('query') }}"><p id="href_query_p" style="margin:25px;font-size:20px;">Query</p></a></div>
+                <div id="href_statistic"><a href="{{ url_for('statistic') }}"><p id="href_statistic_p" style="margin:25px;font-size:20px;">Statistic</p></a></div>
+            </div>
+        </div>
+        <div id="main" style="display:flex;justify-content:space-around;flex-wrap:wrap;">
+
+
+        </div>
+    </div>
+
+<!--    <form action="/page">-->
+<!--        名字:<input type="text" name="playerId">-->
+<!--        <button>點擊送出</button>-->
+<!--    </form>-->
+<!--    <div id="form">-->
+<!--                <form action="/test" method="get">-->
+<!--                <select id="selectype" name="selectype">-->
+<!--                    <option value="">Query</option>-->
+<!--                    <option value="money">Money</option>-->
+<!--                    <option value="money">Assets</option>-->
+<!--                    <option value="money">Special situation</option>-->
+<!--                    <option value="money">Assets type</option>-->
+<!--                </select>-->
+<!--                <button type="submit" class="btn btn-default">Go</button>-->
+
+<!--                </form>-->
+<!--            </div>-->
+</body>
+<script>
+    var data={{data}};
+</script>
+</html>
