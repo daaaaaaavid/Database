@@ -1,11 +1,11 @@
 # Database
 This is a database for monopoly game. All the data is synthetic.
 
-##Packages
+## Packages
 1.flask
 2.sqlite3
 
-##Files
+## Files
   ./create.py
   Create fake data for database.
   
@@ -15,10 +15,10 @@ This is a database for monopoly game. All the data is synthetic.
   ./main.py
   Visulaize the data in database.
 
-##Directories
+## Directories
   ./templates: All the html files are here.
   ./static: All the static files.
   ./csv: All the csv files.
 
-##Database
+## Database
   ./monopoly.db
