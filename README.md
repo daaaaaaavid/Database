@@ -2,8 +2,7 @@
 This is a database for monopoly game. All the data is synthetic.
 
 ## Packages
-1.flask
-2.sqlite3
+    pip install flask sqlite3
 
 ## Files
   ./create.py
