@@ -1,6 +1,7 @@
 # Database
 This is a database for monopoly game. All the data is synthetic.
-
+## ER-model
+![image](ER-model.png)
 ## Packages
 Please install the following packages.
 
