@@ -18,3 +18,6 @@ Please install the following packages.
 
 ## Database
 ### ./monopoly.db
+
+## Demo
+[![Alt text](https://img.youtube.com/vi/rBiOJFv4bQU/0.jpg)](https://www.youtube.com/watch?v=rBiOJFv4bQU)
